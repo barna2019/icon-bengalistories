@@ -126,7 +126,7 @@ addEventListener("fetch", event => {
       }
     ],
     serviceworker: {
-      src: "\/sw.js"
+      src: "https://cdn.statically.io/gh/barna2019/icon-bengalistories/main/sw.js"
     }
   }
 
